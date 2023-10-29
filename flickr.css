@@ -29,3 +29,33 @@ nav{
     padding-left: 60px;
     padding-top: 15px;
 }
+.login{
+    color: white;
+    float: right;
+    padding-right: 30px;
+    padding-top: 25px;
+    font-size: large;
+    font-weight: 300;
+    font-family: sans-serif;
+}
+.login:hover{
+  color:#1DA1F2;
+}
+/* .sign{
+    background-color: white;
+    color: black;
+} */
+.log{
+    padding-right: 30px;
+}
+.sign{
+    background-color: rgb(1, 6, 10);
+    border: 100px;
+    border-radius: 3px;
+    color: white;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.sign:hover{
+    color: rgb(230, 50, 167);
+}
