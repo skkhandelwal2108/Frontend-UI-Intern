@@ -112,3 +112,10 @@ nav{
     height: 40px;
 
 }
+.SearchBox:hover> .SearchText{
+    width: 800px;
+    background: rgba(255, 255, 255, 0.695);
+}
+.SearchBox:hover> .SearchButton{
+    color: white;
+}
