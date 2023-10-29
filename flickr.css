@@ -168,3 +168,10 @@ nav{
 .start:hover{
     color: rgba(196, 190, 190, 0.948);
 }
+.author{
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 120px;
+    font-weight: 700;
+}
