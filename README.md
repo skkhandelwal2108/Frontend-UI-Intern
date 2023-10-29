@@ -38,6 +38,7 @@ Open the Flickr.html file in your web browser to explore the webpage locally.
 The Flickr Clone Webpage is built using the following technologies:
 
 HTML: The structure and content of the webpage.
+
 CSS: Styling and dynamic animations for a visually appealing user interface.
 
 # Contributing
@@ -49,5 +50,7 @@ Submit a pull request with a clear description of your changes.
 
 # Contact
 Email: skkhandelwal2108@gmail.com
+
 GitHub: github.com/skkhandelwal2108
+
 Feel free to explore the Frontend-UI-Intern(Flickr clone) Webpage and experience the magic of dynamic animations and a captivating user interface. We're committed to providing an exceptional photo-sharing experience for our users and look forward to your feedback and contributions.
