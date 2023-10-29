@@ -135,3 +135,36 @@ nav{
     text-align: center;
     padding-top: 20px;
 }
+.enter{
+    /* background: white;
+    padding-top: 10px;
+    padding-bottom: 10px; */
+    /* width: 200px; */
+    padding-left: 650px;
+    /* border: 200px;
+    border-radius: 50%; */
+    padding-top: 20px;
+}
+.start{
+    /* background-color: rgba(255, 255, 255, 0.695); */
+    background: white;
+    color:black;
+    /* width: 100px; */
+    text-decoration: none;
+    display:flexbox;
+    /* top: 100px; */
+    /* padding-left: 35%; */
+    /* padding-top: 20px; */
+    font-size: 25px;
+    font-weight: 600;
+    font-family: sans-serif;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    border: 100px;
+    border-radius: 3px;
+}
+.start:hover{
+    color: rgba(196, 190, 190, 0.948);
+}
